@@ -2,7 +2,9 @@
 public class Dhoni {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String name= "master";
+		int value  =20:
+		System.out.println(name+value);
 
 	}
 
