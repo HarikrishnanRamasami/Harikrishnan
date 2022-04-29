@@ -10,7 +10,7 @@ public class SonarMn {
 		String str="welcome to sonar";
 	
 		
-		logger.info("this is a message.......:"+str);
+		logger.info("this is a message....master.:"+str);
 		
 	}
 
