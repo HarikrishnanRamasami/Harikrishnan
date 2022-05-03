@@ -15,6 +15,6 @@ public class Alianx {
 		PropertyConfigurator.configure(log4jConfigFile);
 		logger.info("this is a message....:"+str);
 		logger.warn("warning message...:"+str);
-		logger.error("error message...ter:"+str);
+		logger.error("error message...master:"+str);
 	}
 }
