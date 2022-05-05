@@ -2,5 +2,5 @@ projectKey=com.qp:sonar-demo
 serverUrl=http://localhost:9000
 serverVersion=9.4.0.54424
 dashboardUrl=http://localhost:9000/dashboard?id=com.qp%3Asonar-demo
-ceTaskId=AYCJqjwHUDww2py4gHSm
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYCJqjwHUDww2py4gHSm
+ceTaskId=AYCNQT0nEXCtSTeTZQos
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYCNQT0nEXCtSTeTZQos
