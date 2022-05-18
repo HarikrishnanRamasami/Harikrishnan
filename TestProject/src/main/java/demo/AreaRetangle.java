@@ -9,7 +9,7 @@ import org.apache.log4j.PropertyConfigurator;
 public class AreaRetangle {
 	static Logger logger=Logger.getLogger(AreaRetangle.class);
 	public static void main(String[] args) {
-		//logger printing type
+		//logger printing types
 		String log4jConfigFile = System.getProperty("user.dir") + File.separator + "log4j.properties";
 		PropertyConfigurator.configure(log4jConfigFile);
 		
