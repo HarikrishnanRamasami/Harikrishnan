@@ -1,0 +1,12 @@
+INFO    2022-05-03 16:50:14,329 [main] beast.Kathi  - this is a message....:welcome to sonar
+WARN    2022-05-03 16:50:14,331 [main] beast.Kathi  - warning message...:welcome to sonar
+ERROR   2022-05-03 16:50:14,331 [main] beast.Kathi  - error message...dfdvf:welcome to sonar
+INFO    2022-05-03 16:50:24,886 [main] beast.Kathi  - this is a message....:welcome to sonar
+WARN    2022-05-03 16:50:24,887 [main] beast.Kathi  - warning message...:welcome to sonar
+ERROR   2022-05-03 16:50:24,888 [main] beast.Kathi  - error message...dfdvf:welcome to sonar
+INFO    2022-05-03 16:50:50,765 [main] beast.Kathi  - this is a message....:welcome to sonar
+WARN    2022-05-03 16:50:50,766 [main] beast.Kathi  - warning message...:welcome to sonar
+ERROR   2022-05-03 16:50:50,768 [main] beast.Kathi  - error message...dfdvf:welcome to sonar
+INFO    2022-05-04 09:38:38,327 [main] beast.Kathi  - this is a message....:welcome to sonar
+WARN    2022-05-04 09:38:38,328 [main] beast.Kathi  - warning message...:welcome to sonar
+ERROR   2022-05-04 09:38:38,329 [main] beast.Kathi  - error message...nickjack:welcome to sonar

@@ -1,0 +1,12 @@
+INFO    2022-05-03 16:14:40,060 [main] ben.Alianx  - this is a message....:welcome to sonar
+WARN    2022-05-03 16:14:40,061 [main] ben.Alianx  - warning message...:welcome to sonar
+ERROR   2022-05-03 16:14:40,061 [main] ben.Alianx  - error message...:welcome to sonar
+INFO    2022-05-03 16:23:23,867 [main] ben.Alianx  - this is a message....:welcome to sonar
+WARN    2022-05-03 16:23:23,868 [main] ben.Alianx  - warning message...:welcome to sonar
+ERROR   2022-05-03 16:23:23,868 [main] ben.Alianx  - error message...:welcome to sonar
+INFO    2022-05-03 16:46:10,048 [main] ben.Alianx  - this is a message....:welcome to sonar
+WARN    2022-05-03 16:46:10,049 [main] ben.Alianx  - warning message...:welcome to sonar
+ERROR   2022-05-03 16:46:10,049 [main] ben.Alianx  - error message...:welcome to sonar
+INFO    2022-05-03 16:47:08,884 [main] ben.Alianx  - this is a message....:welcome to sonar
+WARN    2022-05-03 16:47:08,885 [main] ben.Alianx  - warning message...:welcome to sonar
+ERROR   2022-05-03 16:47:08,885 [main] ben.Alianx  - error message...:welcome to sonar
