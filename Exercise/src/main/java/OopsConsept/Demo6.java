@@ -5,16 +5,20 @@ public class Demo6
 	public static void main(String[] args)
 	{
 		SevaiMaiyam sevai=new SevaiMaiyam();
-		sevai.executeCommand(1);
+		//sevai.executeCommand(1);
 		
 		Corporation corporation=new Corporation();
 		Health health=new Health();
 		Police police=new Police();
+	//	sevai.executeCommand(1);
 		
 		Command deathCommand=new DeathCertificateCommand(corporation,health,police);
-		
-		sevai.setCommand(deathCommand, 1);
-		
+		Command a=new DummyCommand();
+		sevai.setCommand(a, 1);
+		sevai.executeCommand(1);
+	//sevai.setCommand(deathCommand, 1);
+	//sevai.executeCommand(1);
+	//	deathCommand.execute();
 		sevai.executeCommand(1);
 	}
 }
@@ -74,14 +78,15 @@ public class Demo6
 	}
 	class DeathCertificateCommand implements Command
 	{
-		Corporation corporation;
+	
 		Health health;
 		Police police;
+		Corporation corporation;
 		
-		public DeathCertificateCommand()
+	/*	public DeathCertificateCommand()
 		{
 			// TODO Auto-generated constructor stub
-		}
+		}*/
 		public DeathCertificateCommand(Corporation corporation,Health health,Police police) 
 		{
 			this.corporation=corporation;

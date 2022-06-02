@@ -2,13 +2,17 @@ package OopsConsept;
 
 public class ComposistionDemo {
 	public static void main(String[] args) {
-	//Ibaco icecream=new Vanila();
-	Icecream vanila=new Vanila();
+	Ibaco icecream=new Choclate(new Vanila(new Strawberry()));
+	
+	System.out.println("Costvalue1..: "+icecream.Cost());
+	
+	Icecream vanila=new Vanila(new Strawberry());
 	System.out.println("Vanila cost..: "+vanila.Cost());
 	Icecream strawberry=new Strawberry();
 	System.out.println("Strawberry Cost..: "+strawberry.Cost());
 	Icecream choclate=new Choclate();
 	System.out.println("Choclate ....cost..: "+choclate.Cost());
+	
 	}
 }
 abstract class Ibaco
@@ -27,8 +31,10 @@ public Vanila() {
 	{
 		this.ibaco=ibaco;
 	}@Override
+	//Ibaco ibaco;
 	public int Cost()
 	{
+		System.out.println(ibaco.Cost());
 		if (ibaco==null) 
 		{
 		return 10;
