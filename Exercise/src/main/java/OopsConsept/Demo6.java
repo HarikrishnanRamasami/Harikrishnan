@@ -2,8 +2,10 @@ package OopsConsept;
 
 public class Demo6 
 {
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
+	}
+	}
+/*	{
 		SevaiMaiyam sevai=new SevaiMaiyam();
 		//sevai.executeCommand(1);
 		
@@ -14,8 +16,8 @@ public class Demo6
 		
 		Command deathCommand=new DeathCertificateCommand(corporation,health,police);
 		Command a=new DummyCommand();
-		sevai.setCommand(a, 1);
-		sevai.executeCommand(1);
+	//	sevai.setCommand(a, 1);
+	//	sevai.executeCommand(1);
 	//sevai.setCommand(deathCommand, 1);
 	//sevai.executeCommand(1);
 	//	deathCommand.execute();
@@ -83,10 +85,10 @@ public class Demo6
 		Police police;
 		Corporation corporation;
 		
-	/*	public DeathCertificateCommand()
+		public DeathCertificateCommand()
 		{
 			// TODO Auto-generated constructor stub
-		}*/
+		}
 		public DeathCertificateCommand(Corporation corporation,Health health,Police police) 
 		{
 			this.corporation=corporation;
@@ -102,6 +104,6 @@ public class Demo6
 			corporation.deathCertificate();
 			System.out.println("Take the death certificate....");		
 		}
-	}
+	}*/
 
 	
