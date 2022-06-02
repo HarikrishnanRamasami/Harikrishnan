@@ -2,7 +2,7 @@ package exercise;
 
 public class Calculator 
      {	
-	    String atr="Only using inside the method...";
+	    String atr="Only using inside the method....";
     static void Add(int a,int b) 
       	 {
     	  if(a>=b)
