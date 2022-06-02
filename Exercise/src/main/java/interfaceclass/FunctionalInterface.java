@@ -101,12 +101,13 @@ public class FunctionalInterface {
 	//.......................................................................................................//
 	//PART 5
 	//Anonymous 
-	Shop sps=new Shop();
+/*	Shop sps=new Shop();
 	sps.Shoe(30);
 	Shop shop=new Shop() {
 		
+	}*/
 	}
-	};
+
 	
 	public static void Mymethod()
 	{
@@ -161,3 +162,4 @@ class Shop
 	  a=12;
   }
 }
+
