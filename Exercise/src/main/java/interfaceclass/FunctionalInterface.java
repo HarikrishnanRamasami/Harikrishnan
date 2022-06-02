@@ -17,7 +17,7 @@ public class FunctionalInterface {
 				return 100;
 			}
 		}.met();
-		System.out.println("Finterfacetwo is working..!"+value);
+		System.out.println("Finterfacetwo is working...!"+value);
 		
 		// 2.Method Interface
 		
