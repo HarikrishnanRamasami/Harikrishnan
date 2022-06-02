@@ -8,8 +8,8 @@ public class InheritanceDemo5
 		VikramPlug vikramplug=new VikramPlug();
 		 AmericanPlug americanplug=new LenevoPlug();
 		 VikramSocket vikramsocket=new VikramSocket();
-		 IndianAdaptar adapter=new IndianAdaptar(vikramplug,americanplug);
-		 vikramsocket.roundPinHole(adapter, americanplug);
+		 IndianAdaptar adapter=new IndianAdaptar(americanplug);
+		 vikramsocket.roundPinHole(adapter);
 }
 }
 
@@ -21,7 +21,7 @@ abstract class IndianPlug
 //abstract:2
 abstract class IndianSocket
 {
-	public abstract void roundPinHole(IndianPlug ip,AmericanPlug ap);
+	public abstract void roundPinHole(IndianPlug ip);
 }
 abstract class AmericanPlug
 {
@@ -44,7 +44,7 @@ class VikramPlug extends IndianPlug
 class VikramSocket extends IndianSocket
 {
 
-	public void roundPinHole(IndianPlug ip,AmericanPlug ap) {
+	public void roundPinHole(IndianPlug ip) {
 		ip.RoundPin();
 		
 	}
@@ -52,10 +52,10 @@ class VikramSocket extends IndianSocket
 class IndianAdaptar extends IndianPlug
 {
 	 AmericanPlug ap;
-	 IndianPlug ip;
-	public IndianAdaptar (IndianPlug ip, AmericanPlug ap) {
+
+	public IndianAdaptar (AmericanPlug ap) {
 		this.ap=ap;
-		this.ip=ip;
+		
 	}
 	 
 	public void RoundPin() {
