@@ -1,0 +1,8 @@
+INFO    2022-05-20 10:16:09,217 [main] exercise.Argument  - Name :Vijay
+INFO    2022-05-20 10:16:09,219 [main] exercise.Argument  - No Of Movies :64
+INFO    2022-05-20 10:16:09,220 [main] exercise.Argument  - Per Movie Income :100.0Cr
+INFO    2022-05-20 10:16:09,220 [main] exercise.Argument  - [Ljava.lang.String;@1055e4af : [I@3caeaf62
+INFO    2022-05-20 10:17:31,675 [main] exercise.Argument  - Name :Vijay
+INFO    2022-05-20 10:17:31,676 [main] exercise.Argument  - No Of Movies :64
+INFO    2022-05-20 10:17:31,677 [main] exercise.Argument  - Per Movie Income :100.0Cr
+INFO    2022-05-20 10:17:31,677 [main] exercise.Argument  - [Ljava.lang.String;@1055e4af : [I@3caeaf62
