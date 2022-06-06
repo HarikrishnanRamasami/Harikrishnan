@@ -9,7 +9,7 @@ public class PBV_PBR_Demo {
 		
 		System.out.println("Size of laddu before PBV..:"+laddu.size);//10
 		new PBV().accept(laddu.size);
-		System.out.println("Size of laddu after PBV..:"+laddu.size);//10
+		System.out.println("Size of laddu after PBV..:"+size);//10
 		
 		
 		System.out.println("Size of laddu before PBR..:"+laddu.size);//10
@@ -32,6 +32,7 @@ public class PBV_PBR_Demo {
 class PBV{
 	public void accept(int size) {
 		size=size-5;
+	
 	}
 }
 class PBR{
