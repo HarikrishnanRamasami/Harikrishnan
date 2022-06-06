@@ -58,7 +58,7 @@ abstract class Item{
 class Stone1 extends Item{
 	@Override
 	public void display() {
-		System.out.println("biting...............");
+		System.out.println("biting................");
 	}
 }
 class Stick2 extends Item{
