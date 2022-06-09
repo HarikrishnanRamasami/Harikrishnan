@@ -4,6 +4,8 @@ public class Aadi {
 	
 		public static void main(String[] args)
 		{
+			
+			
 			House.saram="welcome";
 			System.out.println(House.saram);
 			
@@ -42,4 +44,8 @@ public class Aadi {
 				//System.out.println(""+House.saram);
 			}
 		}
-
+		
+		abstract class s1{
+			 public abstract void dis();
+			
+		}

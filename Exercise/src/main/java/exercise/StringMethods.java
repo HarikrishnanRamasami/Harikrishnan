@@ -22,6 +22,7 @@ public class StringMethods {
 			//	System.out.printf(st1.toUpperCase());
 			//	System.out.println(name.replace('H','h' ));
 				System.out.println(name.indexOf("k"));
+				System.out.printf("\n %20s %20s %20s", "100","Ramu","Anound Technologies");
 				
 				}
 			}
