@@ -46,11 +46,11 @@ class SevaiMayam
 		public void SetCommand(Command command,int slot)
 		{
 			
-			command[slot]=command;
+//			command[slot]=command;
 		}
 		public void executecommand()
 		{
-			command[slot].execute();
+//			command[slot].execute();
 		}
 	}
 

@@ -29,13 +29,14 @@ class Tr extends Fire{
 
 			/// Final Method can not be Overried
 
-class Final_Overried{
+/*class Final_Overried{
 	final void F_method() {
 		
 	}
 }
-class Extends extends Final_Overried{
+class Extends extends Final_Overried
+{
 	final void F_method() {
 		
 	}
-}
+}*/
