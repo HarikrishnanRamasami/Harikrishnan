@@ -3,24 +3,29 @@ package jundemos;
 public class Clone_Demo_Ad {
 	public static void main(String[] args) {
 		School har=new School(1) ;
-		//har.met();
+//		har.met();
 		
 		School a=har.s();
+		School b=har.s();
 		
 		a.met();
 		
 		har.c=21.4f;
-		
-		a.c=6.5f;
+		har.b=30.0f;
+		a.b=21.0f;
+		a.b=6.5f;
 		
 		System.out.println(har.c);
-		
-		System.out.println(a.c);
+		System.out.println(har.b);
+		System.out.println(a.b);
+		System.out.println(a.c
+				);
 		
 	}
 }
 class School implements Cloneable{
 	float c=21.5f;
+	float b;
 	public School(int i) {
 		System.out.println("1 Standard Books are Provided.............."+i);
 	}

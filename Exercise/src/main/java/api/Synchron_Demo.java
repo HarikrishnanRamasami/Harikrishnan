@@ -12,33 +12,33 @@ public class Synchron_Demo
 	ExecutorService es=Executors.newFixedThreadPool(4);
 	es.execute(
 			()->{
-				//synchronized(at) {
+				//synchronized(Adition.class) {
 					Thread.currentThread().setName("Ajith");
 					at.ApplyAdition();
 					at.Aditionlocation();
 					at.AtendAdition();
 					at.exit();
-				//}
+			//	}
 			});
 	es.execute(
 			()->{
-				//synchronized(at) {
+//				synchronized(Adition.class) {
 					Thread.currentThread().setName("Vikram");
 					at.ApplyAdition();
 					at.Aditionlocation();
 					at.AtendAdition();
 					at.exit();
-				//}
+//				}
 			});
 	es.execute(
 			()->{
-				//synchronized(at) {
+//				synchronized(Adition.class) {
 					Thread.currentThread().setName("Vijay");
 					at.ApplyAdition();
 					at.Aditionlocation();
 					at.AtendAdition();
 					at.exit();
-				//}
+//				}
 			});
 	}
 }
@@ -50,7 +50,7 @@ class Adition
 		Thread thr= Thread.currentThread();
 		String name=thr.getName();
 		System.out.println(name+" Apply Adition...");
-		try {Thread.sleep(3000);}catch (Exception e) {}
+		try {Thread.sleep(1000);}catch (Exception e) {}
 		System.out.println("Apply process completed...");
 		
 		
@@ -61,7 +61,7 @@ class Adition
 		Thread thr1=Thread.currentThread();
 		String name=thr1.getName();
 		System.out.println(name +" Traveling that location....");
-		try {Thread.sleep(5000);}catch (Exception e) {}
+		try {Thread.sleep(4000);}catch (Exception e) {}
 		System.out.println(name + "Reached that location...");
 	}
 	synchronized public void AtendAdition()

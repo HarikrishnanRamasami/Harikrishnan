@@ -12,7 +12,7 @@ public class Garbage_Soft_Weak
 		System.out.println("Available Processors..:"+r.availableProcessors());
 		System.out.println("Free Memory..:"+r.freeMemory());
 		r.gc();
-		Food food=new Food();
+		Food_Demo food_Demo=new Food_Demo();
 		System.out.println("Free Memory..:"+r.freeMemory());
 		//SoftReference soft=new SoftReference(food);
 		//WeakReference weak=new WeakReference(food);
@@ -23,7 +23,7 @@ public class Garbage_Soft_Weak
 		System.out.println("Free Memory..:"+r.freeMemory());
 	//	food=(Food)soft.get();
 	//	food=(Food)weak.get();
-		System.out.println(food);
+		System.out.println(food_Demo);
 
 	}
 }
