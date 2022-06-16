@@ -47,11 +47,11 @@ class Politician
 	public String name="I am a Robert downey jr....!";
 	private String secretwork="I am a Cocaine dealer.....! ";
 	
-	public void SocialService(Object Obj)
+	public void SocialService()
 	{
 		System.out.println("I am a Marvel Actor....!");
 	}
-	private void SecretService(Object obj)
+	private void SecretService()
 	{
 		System.out.println("I do a Cocaine Sell.....!");
 	}
