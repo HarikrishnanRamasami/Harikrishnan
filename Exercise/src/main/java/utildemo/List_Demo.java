@@ -28,25 +28,29 @@ public class List_Demo
 //		{
 //			System.out.println(str.get(i));
 //		}
-		System.out.println("........................................................");
+		System.out.println("############################################################################");
 		for(String m:str)
 		{
 			System.out.println(m);
 		}
-		System.out.println(",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,");
-		Iterator<String> itrat=str.iterator();
-		
-		while(itrat.hasNext())
+		System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+		//Iterator<String> itrat=str.iterator();
+	
 		{
-			System.out.println(itrat.next()); 
+			
 		}
-		System.out.println("...........................................................");
+//		
+//		while(itrat.hasNext())
+//		{
+//			System.out.println(itrat.next()); 
+//		}
+		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
 		
 		ListIterator<String> lt=str.listIterator();
 		while(lt.hasNext()) {
 			System.out.println(lt.next());
 		}
-		System.out.println(",.,.,.,./,..,.,.,.,/////////////////////////////////////////////////////");
+		System.out.println("//////////////////////////////////////////////////////////////////////////");
 		
 		while(lt.hasPrevious())
 		{
