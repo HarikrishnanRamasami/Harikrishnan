@@ -68,7 +68,7 @@ public class TreeSet_Demo
 //	
 //}
 	{
-		List<Name,Id> lt=new ArrayList<Name,Id>();
+		List<Name> lt=new ArrayList<Name>();
 		
 		lt.add(new Name("Hari"));
 		lt.add(new Name("Ronaldo"));
@@ -84,8 +84,8 @@ public class TreeSet_Demo
 	    
 	    System.out.println(lt);
 	    
-	    HashSet<Name,Id> hs=new HashSet<Name,Id>(lt);
-	    TreeSet<Name,Id> ts=new TreeSet<Name,Id>(new Actorname(),new ActorId());
+	    HashSet<Name> hs=new HashSet<Name>(lt);
+	    TreeSet<Name> ts=new TreeSet<Name>(new Actorname());
 	    ts.addAll(hs);
 		
 			System.out.println(ts);
