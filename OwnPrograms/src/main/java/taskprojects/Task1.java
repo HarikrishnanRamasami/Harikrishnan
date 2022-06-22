@@ -83,7 +83,7 @@ class Flight{
 		logger.info("Enter the Hours.. :");
 		int Hours=scanner.nextInt();
 		
-		logger.info("Enter the Minutes.. :");
+		logger.info("Enter the Minutes... :");
 		int Minutes=scanner.nextInt();
 		 
 		//import LocalTime :
