@@ -45,7 +45,7 @@ class Flight{
 		
 		
 		//import LocalDate : 
-		LocalDate localdate=LocalDate.of(Date,Month,Year);
+		LocalDate localdate=LocalDate.of(Year,Month,Date);
 		//import DateTimeFormatter
         DateTimeFormatter formats = DateTimeFormatter.ofPattern("dd-MM-yyyy"); 
         // Date date = new Date(Date-Month-Year);
@@ -55,7 +55,7 @@ class Flight{
         //convert Format
         String formatDateTime =localdate.format(formats); 
 		logger.info("Starting Date :"+formatDateTime);
-	
+		
 	
 		if (( Year%400 == 0)|| (( Year%4 == 0 ) &&( Year%100 != 0))) {
 			System.out.format("\n %d is a Leap Year. \n", Year);
@@ -63,6 +63,8 @@ class Flight{
 		else {
 			System.out.format("\n %d is NOT a Leap Year. \n", Year);
 		}
+		
+		Time();
 	}	
 	public void Kilometers() 
 	{

@@ -121,3 +121,75 @@ INFO    2022-06-22 17:05:58,579 [main] taskprojects.Flight  - Enter the Year.. :
 INFO    2022-06-22 17:06:47,143 [main] taskprojects.Flight  - Enter the Date.. :
 INFO    2022-06-22 17:06:49,027 [main] taskprojects.Flight  - Enter the Month.. :
 INFO    2022-06-22 17:06:50,010 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:30:58,449 [main] taskprojects.Flight  - Enter the Date.. :
+INFO    2022-06-22 17:31:01,633 [main] taskprojects.Flight  - Enter the Month.. :
+INFO    2022-06-22 17:31:02,897 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:31:06,297 [main] taskprojects.Flight  - Enter the Hours.. :
+INFO    2022-06-22 17:31:09,249 [main] taskprojects.Flight  - Enter the Minutes... :
+INFO    2022-06-22 17:32:19,175 [main] taskprojects.Flight  - Enter the Date.. :
+INFO    2022-06-22 17:32:22,009 [main] taskprojects.Flight  - Enter the Month.. :
+INFO    2022-06-22 17:32:23,089 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:32:26,794 [main] taskprojects.Flight  - Enter the Hours.. :
+INFO    2022-06-22 17:32:28,849 [main] taskprojects.Flight  - Enter the Minutes... :
+INFO    2022-06-22 17:37:27,657 [main] taskprojects.Flight  - Enter the Date.. :
+INFO    2022-06-22 17:37:35,579 [main] taskprojects.Flight  - Enter the Month.. :
+INFO    2022-06-22 17:37:36,417 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:37:41,058 [main] taskprojects.Flight  - Enter the Hours.. :
+INFO    2022-06-22 17:37:43,921 [main] taskprojects.Flight  - Enter the Minutes... :
+INFO    2022-06-22 17:38:49,277 [main] taskprojects.Flight  - Enter the Date.. :
+INFO    2022-06-22 17:38:51,589 [main] taskprojects.Flight  - Enter the Month.. :
+INFO    2022-06-22 17:38:53,762 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:38:56,371 [main] taskprojects.Flight  - Enter the Hours.. :
+INFO    2022-06-22 17:38:58,354 [main] taskprojects.Flight  - Enter the Minutes... :
+INFO    2022-06-22 17:43:03,423 [main] taskprojects.Flight  - Enter the Date.. :
+INFO    2022-06-22 17:43:05,733 [main] taskprojects.Flight  - Enter the Month.. :
+INFO    2022-06-22 17:43:06,845 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:43:10,589 [main] taskprojects.Flight  - Enter the Hours.. :
+INFO    2022-06-22 17:43:13,541 [main] taskprojects.Flight  - Enter the Minutes... :
+INFO    2022-06-22 17:43:15,761 [main] taskprojects.Flight  - 12-03-2022 05-46 am
+INFO    2022-06-22 17:43:59,168 [main] taskprojects.Flight  - Enter the Date.. :
+INFO    2022-06-22 17:44:01,542 [main] taskprojects.Flight  - Enter the Month.. :
+INFO    2022-06-22 17:44:02,077 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:44:10,077 [main] taskprojects.Flight  - Enter the Hours.. :
+INFO    2022-06-22 17:44:12,358 [main] taskprojects.Flight  - Enter the Minutes... :
+INFO    2022-06-22 17:46:21,208 [main] taskprojects.Flight  - Enter the Date.. :
+INFO    2022-06-22 17:46:27,687 [main] taskprojects.Flight  - Enter the Month.. :
+INFO    2022-06-22 17:46:28,991 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:46:33,604 [main] taskprojects.Flight  - Starting Date :12-03-2022
+INFO    2022-06-22 17:47:20,835 [main] taskprojects.Flight  - Enter the Date.. :
+INFO    2022-06-22 17:47:44,744 [main] taskprojects.Flight  - Enter the Month.. :
+INFO    2022-06-22 17:47:46,623 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:47:49,732 [main] taskprojects.Flight  - Starting Date :12-04-2022
+INFO    2022-06-22 17:47:49,732 [main] taskprojects.Flight  - Enter the Hours.. :
+INFO    2022-06-22 17:47:56,711 [main] taskprojects.Flight  - Enter the Minutes... :
+INFO    2022-06-22 17:47:59,194 [main] taskprojects.Flight  - 04:56 am
+INFO    2022-06-22 17:47:59,194 [main] taskprojects.Flight  - Enter the Distance.. :
+INFO    2022-06-22 17:48:03,518 [main] taskprojects.Flight  - Enter the Speed.. :
+INFO    2022-06-22 17:48:11,665 [main] taskprojects.Flight  - Total Travel Time..:20.0hrs
+INFO    2022-06-22 17:49:20,573 [main] taskprojects.Flight  - Enter the Date.. :
+INFO    2022-06-22 17:49:46,191 [main] taskprojects.Flight  - Enter the Month.. :
+INFO    2022-06-22 17:49:47,744 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:49:51,845 [main] taskprojects.Flight  - Starting Date :02-04-2022
+INFO    2022-06-22 17:49:51,847 [main] taskprojects.Flight  - Enter the Hours.. :
+INFO    2022-06-22 17:50:30,788 [main] taskprojects.Flight  - Enter the Date.. :
+INFO    2022-06-22 17:50:36,169 [main] taskprojects.Flight  - Enter the Month.. :
+INFO    2022-06-22 17:50:38,833 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:50:40,686 [main] taskprojects.Flight  - Starting Date :02-04-2022
+INFO    2022-06-22 17:50:40,688 [main] taskprojects.Flight  - Enter the Hours.. :
+INFO    2022-06-22 17:51:07,518 [main] taskprojects.Flight  - Enter the Date.. :
+INFO    2022-06-22 17:51:09,304 [main] taskprojects.Flight  - Enter the Month.. :
+INFO    2022-06-22 17:51:11,176 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:51:13,350 [main] taskprojects.Flight  - Starting Date :02-03-2022
+INFO    2022-06-22 17:51:13,352 [main] taskprojects.Flight  - Enter the Hours.. :
+INFO    2022-06-22 17:51:16,929 [main] taskprojects.Flight  - Enter the Minutes... :
+INFO    2022-06-22 17:51:19,785 [main] taskprojects.Flight  - 04:54 am
+INFO    2022-06-22 17:51:19,785 [main] taskprojects.Flight  - Enter the Distance.. :
+
+INFO    2022-06-22 17:51:24,288 [main] taskprojects.Flight  - Enter the Speed.. :
+INFO    2022-06-22 17:51:27,737 [main] taskprojects.Flight  - Total Travel Time..:20.0hrs
+INFO    2022-06-22 17:52:41,070 [main] taskprojects.Flight  - Enter the Date.. :
+INFO    2022-06-22 17:52:53,898 [main] taskprojects.Flight  - Enter the Month.. :
+INFO    2022-06-22 17:52:55,089 [main] taskprojects.Flight  - Enter the Year.. :
+INFO    2022-06-22 17:53:18,694 [main] taskprojects.Flight  - Starting Date :12-04-2022
+INFO    2022-06-22 17:53:18,695 [main] taskprojects.Flight  - 
+Enter the Hours.. :
