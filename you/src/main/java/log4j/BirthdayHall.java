@@ -1,4 +1,4 @@
-package beast;
+package log4j;
 
 public class BirthdayHall {
 	public static void main(String[] args) {
