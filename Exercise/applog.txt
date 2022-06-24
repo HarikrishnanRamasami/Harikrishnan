@@ -1,8 +1,247 @@
-INFO    2022-05-20 10:16:09,217 [main] exercise.Argument  - Name :Vijay
-INFO    2022-05-20 10:16:09,219 [main] exercise.Argument  - No Of Movies :64
-INFO    2022-05-20 10:16:09,220 [main] exercise.Argument  - Per Movie Income :100.0Cr
-INFO    2022-05-20 10:16:09,220 [main] exercise.Argument  - [Ljava.lang.String;@1055e4af : [I@3caeaf62
-INFO    2022-05-20 10:17:31,675 [main] exercise.Argument  - Name :Vijay
-INFO    2022-05-20 10:17:31,676 [main] exercise.Argument  - No Of Movies :64
-INFO    2022-05-20 10:17:31,677 [main] exercise.Argument  - Per Movie Income :100.0Cr
-INFO    2022-05-20 10:17:31,677 [main] exercise.Argument  - [Ljava.lang.String;@1055e4af : [I@3caeaf62
+INFO    2022-06-21 14:43:05,524 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,525 [main] iopack.File_Input  - IOpa
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - ck:
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - 
+
+1
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - .we 
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - can 
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - chan
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - ge b
+INFO    2022-06-21 14:43:05,526 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - yte 
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - stre
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - ems 
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - char
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - acte
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - r st
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - reem
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,527 [main] iopack.File_Input  - s.
+
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - 2.bu
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - ffer
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  -  and
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  -  non
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - buff
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - er
+
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - 
+Fi
+INFO    2022-06-21 14:43:05,528 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - leIn
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - putS
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - tree
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - m it
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - s a 
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - byte
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - stre
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,529 [main] iopack.File_Input  - em c
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - lass
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - 
+
+
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - rela
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - tive
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  -  pat
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - h ab
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - salu
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,530 [main] iopack.File_Input  - te p
+INFO    2022-06-21 14:43:05,531 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,531 [main] iopack.File_Input  - ath.
+INFO    2022-06-21 14:43:05,531 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,531 [main] iopack.File_Input  - 
+_I
+INFO    2022-06-21 14:43:05,531 [main] iopack.File_Input  - 4
+INFO    2022-06-21 14:43:05,531 [main] iopack.File_Input  - nput
+INFO    2022-06-21 14:44:34,446 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,447 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,447 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,447 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,447 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,447 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,447 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,448 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,449 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,449 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,449 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,449 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,449 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,449 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,449 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,449 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,449 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,449 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,449 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,449 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,450 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,450 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,450 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,450 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,450 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,450 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,450 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:44:34,450 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,190 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,192 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,193 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 14:54:54,194 [main] iopack.File_Input  - [B@3caeaf62
+INFO    2022-06-21 16:01:52,887 [main] iopack.File_Demo  - File created..:haridcruz.txt
+INFO    2022-06-21 16:08:38,772 [main] iopack.File_Demo  - Succefully writed...!java.io.FileWriter@7b3300e5
+INFO    2022-06-21 16:09:08,880 [main] iopack.File_Demo  - Succefully writed...!
+INFO    2022-06-21 16:09:19,037 [main] iopack.File_Demo  - Succefully writed...!
+INFO    2022-06-21 16:14:10,236 [main] iopack.File_Input  - true
+INFO    2022-06-21 16:14:10,238 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,238 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,238 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,238 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,238 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,238 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,238 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,238 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,238 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,239 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,239 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,239 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,239 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,239 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,239 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,239 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,239 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,239 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,239 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,239 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,239 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,240 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,241 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,241 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,241 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,241 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,241 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,241 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:14:10,241 [main] iopack.File_Input  - [B@5577140b
+INFO    2022-06-21 16:16:10,201 [main] iopack.File_Input  - true
+INFO    2022-06-21 16:16:10,202 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:16:38,611 [main] iopack.File_Input  - true
+INFO    2022-06-21 16:16:38,613 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:16:38,613 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:36:43,065 [main] iopack.File_Input  - true
+INFO    2022-06-21 16:36:43,066 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:36:43,067 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:36:59,574 [main] iopack.File_Input  - true
+INFO    2022-06-21 16:36:59,576 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:36:59,576 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:37:33,100 [main] iopack.File_Input  - true
+INFO    2022-06-21 16:37:33,101 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:37:33,101 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:38:06,197 [main] iopack.File_Input  - true
+INFO    2022-06-21 16:38:06,199 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:38:06,199 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:38:45,781 [main] iopack.File_Input  - true
+INFO    2022-06-21 16:38:45,783 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:38:45,783 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:45:21,520 [main] iopack.File_Input  - true
+INFO    2022-06-21 16:45:21,522 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 16:45:21,522 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 17:14:09,237 [main] iopack.File_Input  - true
+INFO    2022-06-21 17:14:09,238 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 17:14:09,238 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 17:38:29,734 [main] iopack.File_Input  - true
+INFO    2022-06-21 17:38:29,735 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt
+INFO    2022-06-21 17:38:29,735 [main] iopack.File_Input  - C:\hari\haricr\fisdemo.txt

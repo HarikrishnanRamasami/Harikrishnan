@@ -18,6 +18,7 @@ class Bank{
 	public void TransferMoney(int atm,Account acct) {
 		acct.Credit(10000);
 		acct.Debit(2000);
+		System.out.println(atm);
 		
 	}
 }

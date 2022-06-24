@@ -2,16 +2,19 @@ package OopsConsept;
 
 public class TrycatchMethod1
 {
+	void met() throws Exception {
+		throw new ArithmeticException();
+	}
 	public static void main(String[] args)
 	{
 		try 
 		{
-			String s=args[0];
+			int i=1/0;
 			//Integer.parseInt(s);
 			
-			System.out.println(s);
+			System.out.println(i);
 		} catch (Exception e) {
-		System.out.println(e);
+		//System.out.println(e);
 		}
 		finally
 		{

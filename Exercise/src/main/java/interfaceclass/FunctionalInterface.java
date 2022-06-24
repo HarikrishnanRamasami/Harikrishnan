@@ -24,13 +24,18 @@ public class FunctionalInterface {
 		FIntertwo two=new FunctionalInterface()::Mymethod2;
 		value=two.met();
 		System.out.println("Value of FIntertwo..."+value);
+	
 		
 		//3.Lamda interface
 		
 		FIntertwo ftwo=()->{return 1000;};
 		value=ftwo.met();
 		System.out.println("Lamda interface Fintertwo...."+value);
+	
 		
+	//	FInterone ft=()->{System.out.println ("dd");};
+	
+	
 //........................................................................................................//
 		
 		// PART 3
