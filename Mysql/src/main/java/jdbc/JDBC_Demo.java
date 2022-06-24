@@ -36,7 +36,7 @@ public class JDBC_Demo
 		Statement statement=con.createStatement();
 		int noofrowschanged=statement.executeUpdate(sql);
 		logger.info(noofrowschanged); 
-**/
+***/
 		
 /*
 		//prepared statement import;
