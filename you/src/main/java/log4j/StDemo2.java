@@ -1,4 +1,4 @@
-package beast;
+package log4j;
 
 
 	class StDemo2 {
