@@ -64,7 +64,7 @@ public class JDBC_Demo
 			logger.info("Enter the User_ID value:");
 			int id=scanner.nextInt();
 			
-			logger.info("Enter the uname :");
+			logger.info("Enter the uname. :");
 			String name=scanner.nextLine();
 			prs.setInt(1,id);
 			prs.setString(2,name);
