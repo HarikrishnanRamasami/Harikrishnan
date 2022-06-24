@@ -37,7 +37,7 @@ public class SwitchCaseTravel {
 		
 		sminute=s.nextInt();
 		
-		logger.info("Enter Company end Hour....................");
+		logger.info("Enter Company end Hour..................");
 		
 		ehour=s.nextInt();
 		
