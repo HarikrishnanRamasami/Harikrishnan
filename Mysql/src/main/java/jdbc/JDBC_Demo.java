@@ -22,7 +22,7 @@ public class JDBC_Demo
 		//Step1 - Load the Driver.
 		Class.forName("com.mysql.cj.jdbc.Driver");
 		//Step 2 - Establish Connection
-		Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/anoud","root","cristiano");
+		Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/Hotel","root","cristiano");
 			
 		logger.info(con);
 		//Step 3 - Execute sql statement		
@@ -36,45 +36,45 @@ public class JDBC_Demo
 		Statement statement=con.createStatement();
 		int noofrowschanged=statement.executeUpdate(sql);
 		logger.info(noofrowschanged); 
-***/
+**/
 		
-/*
+
 		//prepared statement import;
 		
-		String sql="update Actors_Table set User_ID=? where Age=?";
+		String sql="update MenuCard set No=? where Food_List=?";
 		
 		PreparedStatement prs=con.prepareStatement(sql);
 //		prs.setInt(1,7);
 //		prs.setInt(2,59);
-		prs.setInt(1,8);
-		prs.setInt(2,59);
+		prs.setInt(1,5);
+		prs.setString(2,"Kalaki");
 
 		int noofrowschanged=prs.executeUpdate();
 		
 		
 		logger.info(noofrowschanged);
-*/
+
 		
-		String sql="update Actors_Table set User_ID=? where uname=?";
-		
-		PreparedStatement prs=con.prepareStatement(sql);
-		while(true)
-		{
-			Scanner scanner=new Scanner(System.in);
-			logger.info("Enter the User_ID value:");
-			int id=scanner.nextInt();
-			
-			logger.info("Enter the uname. :");
-			String name=scanner.nextLine();
-			prs.setInt(1,id);
-			prs.setString(2,name);
-			
-			int noofrowschanged=prs.executeUpdate();
-			
-			logger.info(noofrowschanged);
+//		String sql="update Actors_Table set User_ID=? where uname=?";
+//		
+//		PreparedStatement prs=con.prepareStatement(sql);
+//		while(true)
+//		{
+//			Scanner scanner=new Scanner(System.in);
+//			logger.info("Enter the User_ID value:");
+//			int id=scanner.nextInt();
+//			
+//			logger.info("Enter the uname:");
+//			String name=scanner.nextLine();
+//			prs.setInt(1,id);
+//			prs.setString(2,name);
+//			
+//			int noofrowschanged=prs.executeUpdate();
+//			
+//			logger.info(noofrowschanged);
 		}
 		
 		
 		}
-	}
+	
 

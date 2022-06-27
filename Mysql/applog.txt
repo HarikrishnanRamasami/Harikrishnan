@@ -127,3 +127,54 @@ INFO    2022-06-24 16:20:38,363 [main] jdbc.JDBC_Demo  - Enter the User_ID value
 INFO    2022-06-24 16:20:44,628 [main] jdbc.JDBC_Demo  - Enter the uname :
 INFO    2022-06-24 16:20:44,631 [main] jdbc.JDBC_Demo  - 0
 INFO    2022-06-24 16:20:44,631 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-27 10:00:21,894 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-27 10:00:54,356 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-27 10:00:54,374 [main] jdbc.JDBC_Demo  - 1
+INFO    2022-06-27 10:13:21,870 [main] jdbc.JDBC_Demo8  - jgj
+INFO    2022-06-27 11:54:31,844 [main] jdbc.JDBC_Demo8  - 1
+INFO    2022-06-27 11:56:34,392 [main] jdbc.JDBC_Demo8  - 6
+INFO    2022-06-27 12:37:43,454 [main] jdbc.JDBC_Demo8  - 6
+INFO    2022-06-27 12:38:41,287 [main] jdbc.JDBC_Demo8  - 6
+INFO    2022-06-27 12:38:51,818 [main] jdbc.JDBC_Demo9  - 0
+INFO    2022-06-27 12:39:34,450 [main] jdbc.JDBC_Demo9  - 1
+INFO    2022-06-27 12:40:11,394 [main] jdbc.JDBC_Demo9  - 1
+INFO    2022-06-27 12:58:19,822 [main] jdbc.JDBC_Demo10  - 0
+INFO    2022-06-27 13:00:19,391 [main] jdbc.JDBC_Demo10  - 0
+INFO    2022-06-27 13:01:54,608 [main] jdbc.JDBC_Demo10  - 0
+INFO    2022-06-27 13:05:04,305 [main] jdbc.JDBC_Demo10  - 0
+INFO    2022-06-27 13:05:44,802 [main] jdbc.JDBC_Demo10  - 15
+INFO    2022-06-27 13:06:14,743 [main] jdbc.JDBC_Demo10  - 100
+INFO    2022-06-27 14:32:53,086 [main] jdbc.JDBC_ResultMD  - hotel
+INFO    2022-06-27 14:32:53,087 [main] jdbc.JDBC_ResultMD  - hotel
+INFO    2022-06-27 14:32:53,087 [main] jdbc.JDBC_ResultMD  - hotel
+INFO    2022-06-27 14:34:00,009 [main] jdbc.JDBC_ResultMD  - hotel
+INFO    2022-06-27 14:34:00,010 [main] jdbc.JDBC_ResultMD  - hotel
+INFO    2022-06-27 14:34:00,010 [main] jdbc.JDBC_ResultMD  - hotel
+INFO    2022-06-27 14:35:44,770 [main] jdbc.JDBC_ResultMD  - No
+INFO    2022-06-27 14:35:44,770 [main] jdbc.JDBC_ResultMD  - Food_List
+INFO    2022-06-27 14:35:44,771 [main] jdbc.JDBC_ResultMD  - Price_List
+INFO    2022-06-27 14:56:14,363 [main] jdbc.JDBC_ResultMD  - No
+INFO    2022-06-27 14:56:14,364 [main] jdbc.JDBC_ResultMD  - Food_List
+INFO    2022-06-27 14:56:14,364 [main] jdbc.JDBC_ResultMD  - Price_List
+INFO    2022-06-27 14:56:14,364 [main] jdbc.JDBC_ResultMD  - com.mysql.cj.jdbc.result.ResultSetMetaData@fba92d3 - Field level information: 
+	com.mysql.cj.result.Field@662b4c69[dbName=hotel,tableName=MenuCard,originalTableName=menucard,columnName=No,originalColumnName=No,mysqlType=3(FIELD_TYPE_INT),sqlType=4,flags=, charsetIndex=63, charsetName=ISO-8859-1]
+	com.mysql.cj.result.Field@fa49800[dbName=hotel,tableName=MenuCard,originalTableName=menucard,columnName=Food_List,originalColumnName=Food_List,mysqlType=253(FIELD_TYPE_VARCHAR),sqlType=12,flags=, charsetIndex=255, charsetName=UTF-8]
+	com.mysql.cj.result.Field@71238fc2[dbName=hotel,tableName=MenuCard,originalTableName=menucard,columnName=Price_List,originalColumnName=Price_List,mysqlType=3(FIELD_TYPE_INT),sqlType=4,flags=, charsetIndex=63, charsetName=ISO-8859-1]
+INFO    2022-06-27 14:57:50,673 [main] jdbc.JDBC_ResultMD  - No
+INFO    2022-06-27 14:57:50,674 [main] jdbc.JDBC_ResultMD  - Food_List
+INFO    2022-06-27 14:57:50,674 [main] jdbc.JDBC_ResultMD  - Price_List
+INFO    2022-06-27 14:57:50,674 [main] jdbc.JDBC_ResultMD  - 3
+INFO    2022-06-27 14:57:50,674 [main] jdbc.JDBC_ResultMD  - Parrota
+INFO    2022-06-27 14:57:50,674 [main] jdbc.JDBC_ResultMD  - 15
+INFO    2022-06-27 14:58:03,648 [main] jdbc.JDBC_ResultMD  - No
+INFO    2022-06-27 14:58:03,649 [main] jdbc.JDBC_ResultMD  - Food_List
+INFO    2022-06-27 14:58:03,649 [main] jdbc.JDBC_ResultMD  - Price_List
+INFO    2022-06-27 14:58:03,650 [main] jdbc.JDBC_ResultMD  - 3	
+INFO    2022-06-27 14:58:03,650 [main] jdbc.JDBC_ResultMD  - Parrota	
+INFO    2022-06-27 14:58:03,650 [main] jdbc.JDBC_ResultMD  - 15	
+INFO    2022-06-27 14:59:33,533 [main] jdbc.JDBC_Demo8  - 6
+INFO    2022-06-27 15:45:21,340 [main] jdbc.JDBC_Demo10  - 100
+INFO    2022-06-27 15:47:11,525 [main] jdbc.JDBC_Demo10  - 100
+INFO    2022-06-27 15:47:37,537 [main] jdbc.JDBC_Demo10  - 250
+INFO    2022-06-27 15:52:39,356 [main] jdbc.JDBC_Demo9  - 1
+INFO    2022-06-27 15:52:57,836 [main] jdbc.JDBC_Demo9  - 1
