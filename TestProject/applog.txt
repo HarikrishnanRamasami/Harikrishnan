@@ -1,0 +1,6 @@
+INFO    2022-05-13 15:37:52,543 [main] demo.AreaRetangle  - Enter length of Retangle :
+INFO    2022-05-13 15:38:20,227 [main] demo.AreaRetangle  - Enter length of Retangle :
+INFO    2022-05-13 15:38:25,905 [main] demo.AreaRetangle  - Enter the length of Width :
+INFO    2022-05-13 15:38:29,226 [main] demo.AreaRetangle  - Area Retangle is :288.0
+INFO    2022-05-16 14:55:07,709 [main] demo.AreaRetangle  - Enter length of Retangle :
+INFO    2022-05-16 14:56:51,956 [main] demo.AreaRetangle  - Enter length of Retangle :
