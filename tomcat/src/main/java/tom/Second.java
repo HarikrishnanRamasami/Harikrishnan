@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 public class Second extends HttpServlet {
 	public void init(ServletConfig config) {
 		ServletContext app=config.getServletContext();
-		System.out.println("From second servlet.."+app.getAttribute("mygloble"));	
+		System.out.println("From second servlet..."+app.getAttribute("mygloble"));	
 //		System.out.println(app.getRealPath(""));
 		try {
 			String path=app.getRealPath("/WEB-INF/config.properties");
