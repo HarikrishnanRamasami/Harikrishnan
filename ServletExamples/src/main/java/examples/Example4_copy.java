@@ -50,7 +50,7 @@ public class Example4_copy extends HttpServlet {
      			Scanner scan=new Scanner(System.in);
      			System.out.println("Please enter the uid..:");
      			int uid=scan.nextInt();
-     			System.out.println("Please enter the flag value..:");
+     			System.out.println("Please enter the flag value...:");
      			int flag=scan.nextInt();
      	
             st.setString(1,s1);
