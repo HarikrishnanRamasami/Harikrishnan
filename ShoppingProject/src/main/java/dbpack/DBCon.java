@@ -129,7 +129,7 @@ public static void main(String[] args)
 {
 	DBCon dbcon=new DBCon();
 	
-//	System.out.println(dbcon.checkUser("Aji","mind"));
+	System.out.println(dbcon.checkUser("Aji","mind"));
 	System.out.println(dbcon.checkFlag("Aji"));
 	dbcon.updateFlag("Aji",0);
 	}
