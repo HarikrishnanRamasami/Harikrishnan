@@ -25,7 +25,7 @@ public class DBCon
 public boolean checkUser(String Name,String Password)
 {
 	try {
-			Connection con=DriverManager.getConnection("jdbc:mysql://localhost/Shopping","root","cristiano");
+			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/Shopping","root","cristiano");
 			PreparedStatement ps=con.prepareStatement("Select*from Users where Name=? and Password=?");
 			ps.setString(1, Name);
 			ps.setString(2, Password);
@@ -48,7 +48,7 @@ public boolean checkUser(String Name,String Password)
 public boolean checkFlag(String Name)
 {
 	try {
-			Connection con=DriverManager.getConnection("jdbc:mysql://localhost/Shopping","root","cristiano");
+			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/Shopping","root","cristiano");
 			PreparedStatement ps=con.prepareStatement("Select Flag from Users where Name=?");
 			ps.setString(1, Name);
 		
@@ -79,7 +79,7 @@ public boolean checkFlag(String Name)
 public boolean updateFlag(String Name,int Flag)
 {
 	try {
-			Connection con=DriverManager.getConnection("jdbc:mysql://localhost/Shopping","root","cristiano");
+			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/Shopping","root","cristiano");
 			PreparedStatement ps=con.prepareStatement("update Users set Flag=? where Name=?");
 			ps.setInt(1,Flag);
 			ps.setString(2, Name);
@@ -102,7 +102,7 @@ public boolean updateFlag(String Name,int Flag)
 public boolean registerUser(UserDTO user)
 {
 	try {
-			Connection con=DriverManager.getConnection("jdbc:mysql://localhost/Shopping","root","cristiano");
+			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/Shopping","root","cristiano");
 			PreparedStatement ps=con.prepareStatement("insert into Users values(?,?,?)");
 			ps.setString(1,user.getName());
 			ps.setString(2,user.getPassword());
@@ -129,8 +129,8 @@ public static void main(String[] args)
 {
 	DBCon dbcon=new DBCon();
 	
-	//System.out.println(dbcon.checkUser("Aji","mind"));
-	//System.out.println(dbcon.checkFlag("Aji"));
-	dbcon.updateFlag("Aji",1);
+	System.out.println(dbcon.checkUser("Aji","mind"));
+	System.out.println(dbcon.checkFlag("Aji"));
+	dbcon.updateFlag("Aji",0);
 	}
 }

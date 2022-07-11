@@ -37,8 +37,10 @@ public UserDTO getUserDTO() {
 public String execute(HttpServletRequest request,HttpServletResponse response) {
 	userDTO=new UserDTO();
 	dbcon=new DBCon();
+	userDTO=new UserDTO();
+	dbcon=new DBCon();
 	userDTO.setName(request.getParameter("Name"));
-	userDTO.setPassword(request.getParameter("Paswword"));
+	userDTO.setPassword(request.getParameter("Password"));
 	
 	boolean user=dbcon.checkUser(userDTO.getName(),userDTO.getPassword());
 	if(user)
@@ -52,7 +54,7 @@ public String execute(HttpServletRequest request,HttpServletResponse response) {
 		}
 		else
 		{
-			return "login.already logedin";
+			return "login.alreadylogedin";
 		}
 	}
 	else 

@@ -5,8 +5,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form method="post" action="Logout.do">
-	<input type="hidden" name="action" value="Logout">
+	<form method="post" action="logout.do">
+	<input type="hidden" name="action" value="logout">
 	
 	<input type="submit" value="logout...!">
 	</form>

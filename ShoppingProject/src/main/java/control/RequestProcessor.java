@@ -18,10 +18,10 @@ public class RequestProcessor
 				String action=request.getParameter("action");
 				Properties prop=new Properties();
 				prop.load(new FileInputStream(path));
-				String actionclass=prop.getProperty("action");
-				Action actionObj=(Action)Class.forName(actionclass).getConstructor().newInstance();
-				String actionresult=actionObj.execute(request, response);
-				String nextPage=prop.getProperty(actionresult);
+				String ac=prop.getProperty(action);
+				Action ao=(Action)Class.forName(ac).getConstructor().newInstance();
+				String as=ao.execute(request, response);
+				String nextPage=prop.getProperty(as);
 				RequestDispatcher rd=request.getRequestDispatcher(nextPage);
 				rd.forward(request, response);
 			}catch(Exception e) {

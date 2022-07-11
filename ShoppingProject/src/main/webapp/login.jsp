@@ -6,9 +6,9 @@
 </head>
 <body bgcolor="green">
 <center>
-<form methode="post" action="Login.do">
-UserName:<input type="text" name="action" value="Login">
-UserPasspord:<input type="secret" name="Password">
+<form method="post" action="login.do">
+UserName:<input type="text" name="ename" value="login">
+UserPasspord:<input type="password" name="epass">
 
 <input type="submit" value="Login...">
 </form>
