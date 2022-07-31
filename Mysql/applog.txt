@@ -1,0 +1,180 @@
+INFO    2022-06-24 12:30:07,342 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:01:29,937 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:02:20,489 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:03:35,055 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:04:52,232 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:05:22,422 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:06:44,567 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:06:44,577 [main] jdbc.JDBC_Demo  - 6
+INFO    2022-06-24 14:14:01,364 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:14:01,379 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ClientPreparedStatement: update Actors_Table set User_ID=1 where Actor_Table=** NOT SPECIFIED **
+INFO    2022-06-24 14:15:15,274 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:15:15,289 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ClientPreparedStatement: update Actors_Table set User_ID=1 where Age=** NOT SPECIFIED **
+INFO    2022-06-24 14:16:10,093 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:16:10,108 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ClientPreparedStatement: update Actors_Table set User_ID=1
+INFO    2022-06-24 14:18:14,942 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:18:14,958 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ClientPreparedStatement: update Actors_Table set User_ID=4
+INFO    2022-06-24 14:21:37,008 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:21:37,028 [main] jdbc.JDBC_Demo  - 6
+INFO    2022-06-24 14:23:12,374 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:23:12,392 [main] jdbc.JDBC_Demo  - 6
+INFO    2022-06-24 14:26:42,424 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:26:42,440 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 14:27:28,031 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:27:28,047 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 14:28:01,025 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:29:01,536 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:29:47,545 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:30:48,472 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:31:00,452 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:31:10,968 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:39:58,211 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:39:58,228 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 14:56:58,550 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:56:58,567 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 14:58:27,600 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 14:58:52,527 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:02:57,971 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:03:14,346 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:03:41,106 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:03:41,124 [main] jdbc.JDBC_Demo  - 6
+INFO    2022-06-24 15:06:04,344 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:06:41,258 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:06:50,927 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:07:12,488 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:07:12,506 [main] jdbc.JDBC_Demo  - 1
+INFO    2022-06-24 15:07:52,111 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:07:56,947 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:07:56,963 [main] jdbc.JDBC_Demo  - 1
+INFO    2022-06-24 15:08:45,245 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:08:52,931 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:10:12,912 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:10:12,930 [main] jdbc.JDBC_Demo  - 2
+INFO    2022-06-24 15:12:58,355 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:13:16,785 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:13:37,990 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:13:46,611 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:14:00,836 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:14:00,852 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 15:14:14,315 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:14:27,502 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:25:16,999 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:25:17,014 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 15:25:30,205 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:25:30,223 [main] jdbc.JDBC_Demo  - 2
+INFO    2022-06-24 15:34:55,243 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:34:55,265 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:35:02,540 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:35:06,697 [main] jdbc.JDBC_Demo  - 1
+INFO    2022-06-24 15:35:06,698 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:35:51,882 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:35:55,791 [main] jdbc.JDBC_Demo  - 1
+INFO    2022-06-24 15:35:55,792 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:35:59,666 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:36:14,885 [main] jdbc.JDBC_Demo  - 1
+INFO    2022-06-24 15:36:14,885 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:36:18,385 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:36:28,982 [main] jdbc.JDBC_Demo  - 1
+INFO    2022-06-24 15:36:28,982 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:36:31,240 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:36:42,470 [main] jdbc.JDBC_Demo  - 1
+INFO    2022-06-24 15:36:42,470 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:36:45,984 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:36:55,948 [main] jdbc.JDBC_Demo  - 2
+INFO    2022-06-24 15:36:55,949 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:38:08,874 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:38:08,896 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:38:43,479 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:38:46,046 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 15:38:46,046 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:39:48,301 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:39:51,103 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 15:39:51,103 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:40:24,554 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:40:24,577 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:40:29,493 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:40:31,822 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 15:40:31,823 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:40:41,979 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:40:46,349 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 15:40:46,349 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:40:49,403 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:40:51,301 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 15:40:51,301 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:41:26,421 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:41:26,443 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:41:40,370 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:41:44,940 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 15:41:44,941 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:41:51,458 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:41:55,756 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 15:41:55,756 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:42:34,914 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 15:42:34,937 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 15:42:38,722 [main] jdbc.JDBC_Demo  - Enter the Age:
+INFO    2022-06-24 15:42:42,150 [main] jdbc.JDBC_Demo  - 1
+INFO    2022-06-24 15:42:42,151 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 16:18:11,114 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 16:18:11,137 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 16:18:38,109 [main] jdbc.JDBC_Demo  - Enter the uname :
+INFO    2022-06-24 16:18:38,115 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 16:19:24,195 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 16:19:24,219 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 16:19:27,492 [main] jdbc.JDBC_Demo  - Enter the uname :
+INFO    2022-06-24 16:19:27,495 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 16:20:38,338 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-24 16:20:38,363 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-24 16:20:44,628 [main] jdbc.JDBC_Demo  - Enter the uname :
+INFO    2022-06-24 16:20:44,631 [main] jdbc.JDBC_Demo  - 0
+INFO    2022-06-24 16:20:44,631 [main] jdbc.JDBC_Demo  - Enter the User_ID value:
+INFO    2022-06-27 10:00:21,894 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-27 10:00:54,356 [main] jdbc.JDBC_Demo  - com.mysql.cj.jdbc.ConnectionImpl@62e7f11d
+INFO    2022-06-27 10:00:54,374 [main] jdbc.JDBC_Demo  - 1
+INFO    2022-06-27 10:13:21,870 [main] jdbc.JDBC_Demo8  - jgj
+INFO    2022-06-27 11:54:31,844 [main] jdbc.JDBC_Demo8  - 1
+INFO    2022-06-27 11:56:34,392 [main] jdbc.JDBC_Demo8  - 6
+INFO    2022-06-27 12:37:43,454 [main] jdbc.JDBC_Demo8  - 6
+INFO    2022-06-27 12:38:41,287 [main] jdbc.JDBC_Demo8  - 6
+INFO    2022-06-27 12:38:51,818 [main] jdbc.JDBC_Demo9  - 0
+INFO    2022-06-27 12:39:34,450 [main] jdbc.JDBC_Demo9  - 1
+INFO    2022-06-27 12:40:11,394 [main] jdbc.JDBC_Demo9  - 1
+INFO    2022-06-27 12:58:19,822 [main] jdbc.JDBC_Demo10  - 0
+INFO    2022-06-27 13:00:19,391 [main] jdbc.JDBC_Demo10  - 0
+INFO    2022-06-27 13:01:54,608 [main] jdbc.JDBC_Demo10  - 0
+INFO    2022-06-27 13:05:04,305 [main] jdbc.JDBC_Demo10  - 0
+INFO    2022-06-27 13:05:44,802 [main] jdbc.JDBC_Demo10  - 15
+INFO    2022-06-27 13:06:14,743 [main] jdbc.JDBC_Demo10  - 100
+INFO    2022-06-27 14:32:53,086 [main] jdbc.JDBC_ResultMD  - hotel
+INFO    2022-06-27 14:32:53,087 [main] jdbc.JDBC_ResultMD  - hotel
+INFO    2022-06-27 14:32:53,087 [main] jdbc.JDBC_ResultMD  - hotel
+INFO    2022-06-27 14:34:00,009 [main] jdbc.JDBC_ResultMD  - hotel
+INFO    2022-06-27 14:34:00,010 [main] jdbc.JDBC_ResultMD  - hotel
+INFO    2022-06-27 14:34:00,010 [main] jdbc.JDBC_ResultMD  - hotel
+INFO    2022-06-27 14:35:44,770 [main] jdbc.JDBC_ResultMD  - No
+INFO    2022-06-27 14:35:44,770 [main] jdbc.JDBC_ResultMD  - Food_List
+INFO    2022-06-27 14:35:44,771 [main] jdbc.JDBC_ResultMD  - Price_List
+INFO    2022-06-27 14:56:14,363 [main] jdbc.JDBC_ResultMD  - No
+INFO    2022-06-27 14:56:14,364 [main] jdbc.JDBC_ResultMD  - Food_List
+INFO    2022-06-27 14:56:14,364 [main] jdbc.JDBC_ResultMD  - Price_List
+INFO    2022-06-27 14:56:14,364 [main] jdbc.JDBC_ResultMD  - com.mysql.cj.jdbc.result.ResultSetMetaData@fba92d3 - Field level information: 
+	com.mysql.cj.result.Field@662b4c69[dbName=hotel,tableName=MenuCard,originalTableName=menucard,columnName=No,originalColumnName=No,mysqlType=3(FIELD_TYPE_INT),sqlType=4,flags=, charsetIndex=63, charsetName=ISO-8859-1]
+	com.mysql.cj.result.Field@fa49800[dbName=hotel,tableName=MenuCard,originalTableName=menucard,columnName=Food_List,originalColumnName=Food_List,mysqlType=253(FIELD_TYPE_VARCHAR),sqlType=12,flags=, charsetIndex=255, charsetName=UTF-8]
+	com.mysql.cj.result.Field@71238fc2[dbName=hotel,tableName=MenuCard,originalTableName=menucard,columnName=Price_List,originalColumnName=Price_List,mysqlType=3(FIELD_TYPE_INT),sqlType=4,flags=, charsetIndex=63, charsetName=ISO-8859-1]
+INFO    2022-06-27 14:57:50,673 [main] jdbc.JDBC_ResultMD  - No
+INFO    2022-06-27 14:57:50,674 [main] jdbc.JDBC_ResultMD  - Food_List
+INFO    2022-06-27 14:57:50,674 [main] jdbc.JDBC_ResultMD  - Price_List
+INFO    2022-06-27 14:57:50,674 [main] jdbc.JDBC_ResultMD  - 3
+INFO    2022-06-27 14:57:50,674 [main] jdbc.JDBC_ResultMD  - Parrota
+INFO    2022-06-27 14:57:50,674 [main] jdbc.JDBC_ResultMD  - 15
+INFO    2022-06-27 14:58:03,648 [main] jdbc.JDBC_ResultMD  - No
+INFO    2022-06-27 14:58:03,649 [main] jdbc.JDBC_ResultMD  - Food_List
+INFO    2022-06-27 14:58:03,649 [main] jdbc.JDBC_ResultMD  - Price_List
+INFO    2022-06-27 14:58:03,650 [main] jdbc.JDBC_ResultMD  - 3	
+INFO    2022-06-27 14:58:03,650 [main] jdbc.JDBC_ResultMD  - Parrota	
+INFO    2022-06-27 14:58:03,650 [main] jdbc.JDBC_ResultMD  - 15	
+INFO    2022-06-27 14:59:33,533 [main] jdbc.JDBC_Demo8  - 6
+INFO    2022-06-27 15:45:21,340 [main] jdbc.JDBC_Demo10  - 100
+INFO    2022-06-27 15:47:11,525 [main] jdbc.JDBC_Demo10  - 100
+INFO    2022-06-27 15:47:37,537 [main] jdbc.JDBC_Demo10  - 250
+INFO    2022-06-27 15:52:39,356 [main] jdbc.JDBC_Demo9  - 1
+INFO    2022-06-27 15:52:57,836 [main] jdbc.JDBC_Demo9  - 1
