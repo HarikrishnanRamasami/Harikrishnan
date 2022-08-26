@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) Qatar Insurance Group, PO Box 666, Doha, Qatar
+All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited.
+
+Author: Ravindar Singh T
+-->
+<Context antiJARLocking="true" path="/crm">
+  <Resource name="jdbc/crm_doha" username="D001_SEP" password="D001_SEP" url="jdbc:oracle:thin:@ANOUDTST-SCAN:1521/ANOUDTST" auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" logAbandoned="true" maxActive="15" maxIdle="15" maxWait="10000" minEvictableIdleTimeMillis="900000" numTestsPerEvictionRun="15" removeAbandoned="true" removeAbandonedTimeout="300" testOnBorrow="false" testWhileIdle="true" timeBetweenEvictionRunsMillis="900000" type="javax.sql.DataSource" validationQuery="select * FROM dual"/>
+  <Resource name="jdbc/crm_beema" username="D001_CRM" password="D001_CRM" url="jdbc:oracle:thin:@ANOUDTST-SCAN:1521/ANOUDTST" auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" logAbandoned="true" maxActive="15" maxIdle="15" maxWait="10000" minEvictableIdleTimeMillis="900000" numTestsPerEvictionRun="15" removeAbandoned="true" removeAbandonedTimeout="300" testOnBorrow="false" testWhileIdle="true" timeBetweenEvictionRunsMillis="900000" type="javax.sql.DataSource" validationQuery="select * FROM dual"/>
+  <Resource name="jdbc/crm_dubai" username="T_ANOUD_CRM" password="T_ANOUD_CRM" url="jdbc:oracle:thin:@ANOUDTST-SCAN:1521/ANOUDTST" auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" logAbandoned="true" maxActive="15" maxIdle="15" maxWait="10000" minEvictableIdleTimeMillis="900000" numTestsPerEvictionRun="15" removeAbandoned="true" removeAbandonedTimeout="300" testOnBorrow="false" testWhileIdle="true" timeBetweenEvictionRunsMillis="900000" type="javax.sql.DataSource" validationQuery="select * FROM dual"/>
+  <Resource name="jdbc/crm_med" username="T009_CRM" password="T009_CRM" url="jdbc:oracle:thin:@ANOUDTST-SCAN:1521/ANOUDTST" auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" logAbandoned="true" maxActive="15" maxIdle="15" maxWait="10000" minEvictableIdleTimeMillis="900000" numTestsPerEvictionRun="15" removeAbandoned="true" removeAbandonedTimeout="300" testOnBorrow="false" testWhileIdle="true" timeBetweenEvictionRunsMillis="900000" type="javax.sql.DataSource" validationQuery="select * FROM dual"/>
+  <Resource name="jdbc/crm_med_oman" username="P006_CRM" password="CRM_0O6_0MSRM0" url="jdbc:oracle:thin:@anoudmed-scan.qichoappl.com:1521/anoudmed" auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" logAbandoned="true" maxActive="15" maxIdle="15" maxWait="10000" minEvictableIdleTimeMillis="900000" numTestsPerEvictionRun="15" removeAbandoned="true" removeAbandonedTimeout="300" testOnBorrow="false" testWhileIdle="true" timeBetweenEvictionRunsMillis="900000" type="javax.sql.DataSource" validationQuery="select * FROM dual"/>
+</Context>

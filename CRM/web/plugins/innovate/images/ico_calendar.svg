@@ -1,0 +1,37 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #8e8e8e;
+      }
+    </style>
+  </defs>
+  <title>ico_calendar</title>
+  <g>
+    <path class="cls-1" d="M45,4H35.58a1,1,0,0,0-1,1V7.64a1,1,0,0,0,1,1h2.51L30.52,16.2a1,1,0,0,0,0,1.4l1.88,1.87a1,1,0,0,0,1.4,0l7.57-7.56v2.51a1,1,0,0,0,1,1H45a1,1,0,0,0,1-1V5A1,1,0,0,0,45,4Z" transform="translate(-4 -4)"/>
+    <path class="cls-1" d="M11.91,8.63h2.51a1,1,0,0,0,1-1V5a1,1,0,0,0-1-1H5A1,1,0,0,0,4,5v9.43a1,1,0,0,0,1,1H7.64a1,1,0,0,0,1-1V11.91l7.57,7.56a1,1,0,0,0,1.4,0l1.87-1.87a1,1,0,0,0,0-1.4Z" transform="translate(-4 -4)"/>
+    <path class="cls-1" d="M17.6,30.23a1,1,0,0,0-1.4,0L8.63,37.8V35.28a1,1,0,0,0-1-1H5a1,1,0,0,0-1,1v9.43a1,1,0,0,0,1,1h9.43a1,1,0,0,0,1-1V42.07a1,1,0,0,0-1-1H11.91l7.56-7.56a1,1,0,0,0,0-1.41Z" transform="translate(-4 -4)"/>
+    <path class="cls-1" d="M45,34.29H42.36a1,1,0,0,0-1,1V37.8L33.8,30.23a1,1,0,0,0-1.4,0L30.52,32.1a1,1,0,0,0,0,1.41l7.57,7.56H35.58a1,1,0,0,0-1,1v2.64a1,1,0,0,0,1,1H45a1,1,0,0,0,1-1V35.28A1,1,0,0,0,45,34.29Z" transform="translate(-4 -4)"/>
+  </g>
+  <g>
+    <path class="cls-2" d="M40.2,8.2H38.27V5h-3.2V8.2H13.93V5h-3.2V8.2H8.8A4.82,4.82,0,0,0,4,13V41.2A4.81,4.81,0,0,0,8.8,46H40.2A4.81,4.81,0,0,0,45,41.2V13A4.82,4.82,0,0,0,40.2,8.2Zm1.6,33a1.6,1.6,0,0,1-1.6,1.6H8.8a1.6,1.6,0,0,1-1.6-1.6V20.05H41.8Zm0-24.35H7.2V13a1.6,1.6,0,0,1,1.6-1.6h1.93v3.2h3.2v-3.2H35.07v3.2h3.2v-3.2H40.2A1.6,1.6,0,0,1,41.8,13Z" transform="translate(-4 -4)"/>
+    <rect class="cls-2" x="6.09" y="19.42" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="12.49" y="19.42" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="18.9" y="19.42" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="25.3" y="19.42" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="31.71" y="19.42" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="6.09" y="25.82" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="12.49" y="25.82" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="18.9" y="25.82" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="25.3" y="25.82" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="6.09" y="32.23" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="12.49" y="32.23" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="18.9" y="32.23" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="25.3" y="32.23" width="3.2" height="3.2"/>
+    <rect class="cls-2" x="31.71" y="25.82" width="3.2" height="3.2"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39.3 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>ico_tick_green</title>
+  <path class="cls-1" d="M6.85,40V12.26a2,2,0,0,1,2-2H33.44l-3.92,3.91H10.76V38.08H34.63V27.94L38.54,24V40a2,2,0,0,1-2,2H8.81A2,2,0,0,1,6.85,40Zm17-15-4.18-4.18A3,3,0,0,0,14.58,23a3,3,0,0,0,.88,2.12l6.31,6.3a3,3,0,0,0,4.25,0L45.27,12.13a3,3,0,0,0,0-4.25,3,3,0,0,0-4.25,0Z" transform="translate(-6.85 -7)"/>
+</svg>

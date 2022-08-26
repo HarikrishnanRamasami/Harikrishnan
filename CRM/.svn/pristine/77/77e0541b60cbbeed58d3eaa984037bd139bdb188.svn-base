@@ -1,0 +1,16 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32.06 29.49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>ico_chat</title>
+  <g>
+    <path class="cls-1" d="M31.34,6.78H8.1a4.42,4.42,0,0,0-4.41,4.41V25.41a4.41,4.41,0,0,0,4.39,4.41v6.45l9.28-6.45h14a4.42,4.42,0,0,0,4.41-4.41V11.19A4.42,4.42,0,0,0,31.34,6.78Zm2.53,18.63a2.53,2.53,0,0,1-2.53,2.53H16.77L10,32.68V27.94H8.1a2.53,2.53,0,0,1-2.53-2.53V11.19A2.53,2.53,0,0,1,8.1,8.66H31.34a2.53,2.53,0,0,1,2.53,2.53Z" transform="translate(-3.69 -6.78)"/>
+    <path class="cls-1" d="M12.27,13.42h14.9V15.3H12.27Z" transform="translate(-3.69 -6.78)"/>
+    <path class="cls-1" d="M12.27,17.42h14.9V19.3H12.27Z" transform="translate(-3.69 -6.78)"/>
+    <path class="cls-1" d="M12.27,21.43h14.9v1.88H12.27Z" transform="translate(-3.69 -6.78)"/>
+  </g>
+</svg>

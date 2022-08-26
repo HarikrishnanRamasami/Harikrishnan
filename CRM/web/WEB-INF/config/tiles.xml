@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!--
+Copyright (C) Qatar Insurance Group, PO Box 666, Doha, Qatar
+All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited.
+
+Author: Ravindar Singh T
+
+-->
+<!DOCTYPE tiles-definitions PUBLIC
+        "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+    <definition name="CommonLayout" template="/WEB-INF/pages/layout/commonLayoutV2.jsp">
+    </definition>
+    <definition name="PluginLayout" template="/WEB-INF/pages/layout/pluginLayout.jsp">
+    </definition>
+    <definition name="WallboardLayout" template="/WEB-INF/pages/layout/ameyoLayout.jsp">
+        <put-attribute name="body" value="/WEB-INF/pages/ameyo/ameyoLogin.jsp"/>
+    </definition>
+    <definition name="DohaHomePlugin" extends="PluginLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/anoud/profilev2.jsp"/>
+    </definition>
+    <definition name="QLMHomePlugin" extends="PluginLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/anoud/member360.jsp"/>
+    </definition>
+    <definition name="DohaHome" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/anoud/profilev2.jsp"/>
+    </definition>
+    <definition name="QLMHome" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/anoud/member360.jsp"/>
+    </definition>
+    <definition name="WallboardHome" extends="WallboardLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/ameyo/ameyoWallboard.jsp"/>
+    </definition>
+    <definition name="LoginPage" extends="PluginLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/uam/login.jsp"/>
+    </definition>
+    <definition name="LockPage" extends="PluginLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/uam/lock.jsp"/>
+    </definition>
+    <definition name="MonitorPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/crm/callMonitor.jsp"/>
+    </definition>
+    <definition name="AnoudHome" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/anoud/anoudHomeV2.jsp"/>
+    </definition>
+    <definition name="BlankHome" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/anoud/blankHome.jsp"/>
+    </definition>
+    <definition name="CustomerForm" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/anoud/customerForm.jsp"/>
+    </definition>
+    <definition name="TaskPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/task/task.jsp"/>
+    </definition>
+<!--<definition name="LeadPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/leads/leads.jsp"/>
+    </definition>
+    <definition name="OpportunityPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/leads/opportunity.jsp"/>
+    </definition>-->
+    <definition name="ActivitiesPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/task/activities.jsp"/>
+    </definition>
+<definition name="insuredPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/anoud/insuredDetailsPage.jsp"/>
+    </definition>
+    
+    <definition name="searchPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/anoud/search.jsp"/>
+    </definition>
+    
+    <definition name="AdminPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/admin/admin.jsp"/>
+    </definition>
+    
+    <definition name="CrmPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/leads/crm.jsp"/>
+    </definition>
+    
+    <definition name="DigitalMarketPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/digitalMarketing.jsp"/>
+    </definition>
+    
+    <definition name="CallLogPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/crm/callFeedback.jsp"/>
+    </definition>
+     <definition name="BulkEmailPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/bulksms/bulkSMSEmailInfo.jsp"/>
+    </definition>
+   
+    <!-- DYNAMIC REPORTS MODULE -->
+    <definition name="ReportsEnquiry" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/reports/dynamic/reportEnquiry.jsp"/>       
+    </definition>
+    <definition name="ReportsEnquiryAjax" extends="PluginLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/reports/dynamic/reportEnquiry.jsp"/>       
+    </definition>
+    <definition name="ReportsDesigner" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/reports/dynamic/reportDesigner.jsp"/>
+    </definition>
+    <!-- DYNAMIC REPORTS MODULE END -->
+    <definition name="CampaignPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/campaignPage.jsp"/>
+    </definition>
+    <definition name="CampaignDetails" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/campaignDetails.jsp"/>
+    </definition>
+    <definition name="MailDetails" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/anoud/mailCampaignPage.jsp"/>
+    </definition>
+    <definition name="leadpage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/leads/leads.jsp"/>
+    </definition>
+    <definition name="opportunityPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/leads/opportunity.jsp"/>
+    </definition>
+    <definition name="TaskAttend" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/admin/taskAttendee.jsp"/>
+    </definition>
+    <definition name="TaskAlloc" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/admin/taskAllocation.jsp"/>
+    </definition>
+     <definition name="MissedCall" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/admin/missedCall.jsp"/>
+    </definition>
+    <definition name="TaskDashPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/admin/TaskV2.jsp"/>
+    </definition>
+    <definition name="TaskDashboard" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/admin/taskDashboard.jsp"/>
+    </definition>
+    <definition name="LeadDashBoard" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/leads/leadDashboard.jsp"/>
+    </definition>
+    <definition name="error_customer" extends="PluginLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/anoud/customerNotFound.jsp"/>
+    </definition>
+    <definition name="WhatsAppDashboard" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/wa/WhatsAppDashboard.jsp"/>
+    </definition>
+    <definition name="WhatsAppDetailPage" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/wa/WhatsAppDetailPage.jsp"/>
+    </definition>
+    <definition name="WhatsAppDash" extends="CommonLayout">
+        <put-attribute name="body" value="/WEB-INF/pages/wa/WhatsAppDash.jsp"/>
+    </definition>   
+    <definition name="DataParamFilter" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/DataParamFilter.jsp"/>       
+    </definition>
+    <definition name="DataMappings" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/campaignDataMappings.jsp"/>       
+    </definition>
+    <definition name="DataFilters" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/campaignFilters.jsp"/>       
+    </definition>
+    <definition name="marketingCampaign" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/campaignHeader.jsp"/>       
+    </definition>
+    <definition name="campaignSummary" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/campaignSummary.jsp"/>       
+    </definition>
+    <definition name="campTemplate" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/campaignTemplateList.jsp"/>       
+    </definition>  
+    <definition name="Forms" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/campaignFormList.jsp"/>       
+    </definition> 
+    <definition name="PathList" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/campaignJourneyDetails.jsp"/>       
+    </definition>  
+    <definition name="ModifyCampaign" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/campaignSetup.jsp"/>       
+    </definition>
+    <definition name="CampDashboard" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/campaignDashboard.jsp"/>       
+    </definition>
+    <definition name="campFlowChart" extends="CommonLayout"> 
+        <put-attribute name="body" value="/WEB-INF/pages/campaign/campainPathFlowChart.jsp"/>       
+    </definition>
+</tiles-definitions>

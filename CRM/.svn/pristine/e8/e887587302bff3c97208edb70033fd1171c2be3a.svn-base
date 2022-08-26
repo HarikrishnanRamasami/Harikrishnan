@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<!--
+Copyright (C) Qatar Insurance Group, PO Box 666, Doha, Qatar
+All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited.
+
+Author: Ravindar Singh T
+-->
+<html>
+    <head>
+        <title>CRM Veshti</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>Welcome to CRM Veshti</div>
+    </body>
+</html>

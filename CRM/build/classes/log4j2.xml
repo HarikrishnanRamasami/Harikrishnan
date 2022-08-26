@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) Qatar Insurance Group, PO Box 666, Doha, Qatar
+All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited.
+
+Author     : ravindar.singh
+-->
+<Configuration status="DEBUG">
+    <Appenders>
+        <Console name="STDOUT" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{dd-MM-yyyy HH:mm:ss.SSS} %-5p %c{1}:%L - %m%n"/>
+        </Console>
+    </Appenders>
+    <Loggers>
+        <Logger name="org.apache" level="ERROR"/>
+        <Logger name="com.opensymphony" level="ERROR"/>
+        <Logger name="com.opensymphony.xwork2.ognl" level="ERROR"/>
+        <Logger name="com.opensymphony" level="ERROR"/>
+        <Logger name="org.apache.struts2" level="ERROR"/>
+        <Logger name="freemarker" level="ERROR"/>
+        <Logger name="qa.com" level="DEBUG"/>
+        <Root level="DEBUG">
+            <AppenderRef ref="STDOUT"/>
+        </Root>
+    </Loggers>
+</Configuration>

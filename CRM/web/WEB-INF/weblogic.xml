@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) Qatar Insurance Group, PO Box 666, Doha, Qatar
+All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited.
+-->
+<weblogic-web-app xmlns="http://www.bea.com/ns/weblogic/90" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <session-descriptor>
+        <persistent-store-type>replicated_if_clustered</persistent-store-type>
+        <tracking-enabled>true</tracking-enabled>
+        <cookie-name>T_CRM_COOKIE</cookie-name>
+        <cookie-http-only>true</cookie-http-only>
+        <encode-session-id-in-query-params>true</encode-session-id-in-query-params>
+        <url-rewriting-enabled>true</url-rewriting-enabled>
+    </session-descriptor>
+    <context-root>/crm</context-root>
+    <container-descriptor>
+        <!--prefer-web-inf-classes>true</prefer-web-inf-classes>
+        <show-archived-real-path-enabled>true</show-archived-real-path-enabled-->
+        <prefer-web-inf-classes>false</prefer-web-inf-classes>
+        <show-archived-real-path-enabled>true</show-archived-real-path-enabled>
+        <prefer-application-packages>
+            <package-name>org.slf4j.*</package-name>
+            <package-name>org.apache.commons.logging.*</package-name>
+            <package-name>org.apache.tiles.*</package-name>
+        </prefer-application-packages>
+    </container-descriptor>
+</weblogic-web-app>

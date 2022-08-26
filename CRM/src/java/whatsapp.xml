@@ -1,0 +1,94 @@
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN" "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <package name="Chat" namespace="/" extends="sessionfilter">
+        
+        <action name="openWhatsAppDetails" class="qa.com.qic.common.action.WhatsAppChatAction" method="openWhatsAppDetails">
+            <result name="success" type="tiles">WhatsAppDashboard</result>
+        </action>
+        <action name="loadWhatsAppMasterScreen" class="qa.com.qic.common.action.WhatsAppChatAction" method="loadWhatsAppMasterScreen">
+            <result name="success">/WEB-INF/pages/wa/master/waAutoMessageForm.jsp</result>
+        </action>
+        <action name="saveWhatsAppAutoForm" class="qa.com.qic.common.action.WhatsAppChatAction" method="saveWhatsAppAutoForm">
+            <result name="success" type="json" >
+                <param name="includeProperties">message</param>
+            </result>
+        </action>   
+        
+        <action name="loadAutoMessageData" class="qa.com.qic.common.action.WhatsAppChatAction" method="loadAutoMessageData">
+            <result name="success" type="json" >
+                <param name="includeProperties">msgData.*</param>
+            </result>
+        </action>
+        
+        <action name="openWhatsAppDetailPage" class="qa.com.qic.common.action.WhatsAppChatAction" method="loadWhatsAppMsgPage">            
+            <result name="success">/WEB-INF/pages/wa/WhatsAppDetailPage.jsp</result>
+        </action>
+        
+        <action name="openWhatsAppDashBoardPage" class="qa.com.qic.common.action.WhatsAppChatAction" method="openDashBoardPage">            
+            <result name="success">/WEB-INF/pages/wa/WhatsAppDash.jsp</result>
+        </action>
+        <action name="openWhatsAppTxnHistoryPage" class="qa.com.qic.common.action.WhatsAppChatAction" method="openWhatsAppTxnHistoryPage">            
+            <result name="success">/WEB-INF/pages/wa/whatsAppTransactionHistory.jsp</result>
+        </action>
+        <!-- loadWhatsAppDashSummaryByPeriod, loadWhatsAppDashOpenSummaryByPeriod, loadWhatsAppDashMonthlySummaryByPeriod, loadWhatsAppDashMonthlySummaryByCloseCode -->
+        <action name="loadWhatsAppDash*" class="qa.com.qic.common.action.WhatsAppChatAction" method="loadDash{1}">            
+            <result name="success" type="json">
+                <param name="includeProperties">aaData.*,chartData.*</param>
+            </result>
+            <allowed-methods>loadDashSummaryByPeriod, loadDashOpenSummaryByPeriod, loadDashMonthlySummaryByPeriod,loadDashMonthlySummaryByCloseCode</allowed-methods>
+        </action>
+        <action name="loadCallLogDetails" class="qa.com.qic.common.action.DashboardAction" method="loadCallLogDetails">
+        </action>
+        <action name="loadWhatsAppData" class="qa.com.qic.common.action.WhatsAppChatAction" method="loadWhatsAppData">
+            <result name="success" type="json">
+                <param name="includeProperties">txnList.*</param>
+            </result>
+        </action>
+        <action name="loadWhatsAppHistoryData" class="qa.com.qic.common.action.WhatsAppChatAction" method="loadWhatsAppHistoryData">
+            <result name="success" type="json">
+                <param name="includeProperties">aaData.*</param>
+            </result>
+        </action>
+        <action name="loadWhatsAppHistoryDataByMessage" class="qa.com.qic.common.action.WhatsAppChatAction" method="loadWhatsAppHistoryDataByMessage">
+            <result name="success" type="json">
+                <param name="includeProperties">aaData.*</param>
+            </result>
+        </action>
+
+        <action name="transferRequest" class="qa.com.qic.common.action.WhatsAppChatAction" method="transferRequest">
+            <result name="success" type="json">
+                <param name="excludeNullProperties">false</param>
+                <param name="includeProperties">logList.*</param>
+                <param name="enableGZIP">true</param>
+            </result>
+        </action>
+        <action name="loadWhatsAppLog" class="qa.com.qic.common.action.WhatsAppChatAction" method="loadWhatsAppLog">
+        </action>
+        <action name="loadWhatsAppLatestConversation" class="qa.com.qic.common.action.WhatsAppChatAction" method="loadLatestConversation">
+            <result name="success" type="json">
+                <param name="includeProperties">aaData.*</param>
+            </result>
+        </action>
+        <action name="resolveChat" class="qa.com.qic.common.action.WhatsAppChatAction" method="resolveChat"/>
+        <action name="updateTxnName" class="qa.com.qic.common.action.WhatsAppChatAction" method="updateTxnName"/>        
+        <action name="updateForwardUser" class="qa.com.qic.common.action.WhatsAppChatAction" method="updateForwardUser"/>
+        <action name="sendMessage" class="qa.com.qic.common.action.WhatsAppChatAction" method="sendMessage">
+            <result name="success" type="json">
+                <param name="includeProperties">log.*</param>
+            </result>
+        </action>
+        <action name="sendInviteMessage" class="qa.com.qic.common.action.WhatsAppChatAction" method="sendInviteMessage">
+            <result name="success" type="json">
+                <param name="includeProperties">messageType,message</param>
+            </result>
+        </action>
+        <action name="loadWhatsAppClmSubmission" class="qa.com.qic.common.action.WhatsAppChatAction">
+            <result name="success">/WEB-INF/pages/wa/whatsAppClmSubmission.jsp</result>
+        </action>
+        <action name="loadWhatsDocData" class="qa.com.qic.common.action.WhatsAppChatAction" method="loadWhatsDocData">
+            <result name="success" type="json">
+                <param name="includeProperties">aaData.*</param>
+            </result>
+        </action> 
+    </package>
+</struts>

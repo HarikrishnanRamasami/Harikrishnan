@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 Dec, 2019, 3:22:04 PM
+    Author     : sutharsan.g
+*/
+
+@import '../mermaid';
+/* Flowchart variables */
+/* Sequence Diagram variables */
+/* Gantt chart variables */
+/* state colors */
+ g.stateGroup text {
+	 fill: purple;
+	 stroke: none;
+	 font-size: 10px;
+	 font-family: 'trebuchet ms', verdana, arial;
+	 font-family: var(--mermaid-font-family);
+}
+ g.stateGroup text {
+	 fill: purple;
+	 stroke: none;
+	 font-size: 10px;
+}
+ g.stateGroup .state-title {
+	 font-weight: bolder;
+	 fill: black;
+}
+ g.stateGroup rect {
+	 fill: #bdd5ea;
+	 stroke: purple;
+}
+ g.stateGroup line {
+	 stroke: purple;
+	 stroke-width: 1;
+}
+ .transition {
+	 stroke: purple;
+	 stroke-width: 1;
+	 fill: none;
+}
+ .stateGroup .composit {
+	 fill: white;
+	 border-bottom: 1px;
+}
+ .stateGroup .alt-composit {
+	 fill: #e0e0e0;
+	 border-bottom: 1px;
+}
+ .state-note {
+	 stroke: rgba(255, 255, 255, 0.25);
+	 fill: #fff5ad;
+}
+ .state-note text {
+	 fill: black;
+	 stroke: none;
+	 font-size: 10px;
+}
+ .stateLabel .box {
+	 stroke: none;
+	 stroke-width: 0;
+	 fill: #bdd5ea;
+	 opacity: 0.5;
+}
+ .stateLabel text {
+	 fill: black;
+	 font-size: 10px;
+	 font-weight: bold;
+	 font-family: 'trebuchet ms', verdana, arial;
+	 font-family: var(--mermaid-font-family);
+}
+ 
